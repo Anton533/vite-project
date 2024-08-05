@@ -1,0 +1,15 @@
+$clr-gray: #7a7a7a;
+
+:root {
+  --clr-gray: #{$clr-gray};
+
+  --clr-body-bg: #fafafa;
+
+  --font-text: 'Commissioner', sans-serif;
+
+  --container-padding-xs: 20px;
+  --container-padding-md: 30px;
+  --container-padding-lg: 40px;
+  --container-padding-xl: 50px;
+  --container-padding-xxl: 80px;
+}
